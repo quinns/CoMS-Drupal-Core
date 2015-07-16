@@ -1,0 +1,7 @@
+name = Views Perm
+description = Exposes permission information to Views.
+package = Views
+dependencies[] = views
+core = 6.x
+
+
